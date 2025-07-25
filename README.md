@@ -1,9 +1,7 @@
 ### Tim Barden &nbsp;▫︎&nbsp;  Full Stack Developer 
 
-<pre>
 ✭ Based in Lincolnshire, England 🌳
 ✭ I'm currently enjoying working with Laravel, Vue and TailwindCSS
-</pre>
 
 <!--
 **timbarden/timbarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
