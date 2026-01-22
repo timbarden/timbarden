@@ -2,5 +2,5 @@
 
 <pre>
 ✭ Based in Lincolnshire, England 🌳
-✭ I'm currently enjoying working with Laravel, Vue, Nuxt, Svelte and TailwindCSS
+✭ I'm currently enjoying working with Laravel, Vue, Nuxt, SvelteKit and TailwindCSS
 </pre>
